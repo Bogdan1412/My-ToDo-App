@@ -1,0 +1,32 @@
+li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 5px 0;
+  -webkit-column-gap: 15px;
+     -moz-column-gap: 15px;
+          column-gap: 15px;
+}
+li:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+button {
+  margin-left: 10px;
+  padding: 10px 10px;
+  background-color: #ff6666;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #ff3333;
+}
+
+input {
+  padding: 10px;
+}

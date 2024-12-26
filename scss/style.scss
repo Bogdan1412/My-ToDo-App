@@ -1,0 +1,33 @@
+li {
+	display: flex;
+	align-items: center;
+	// justify-content: space-between;
+	padding: 5px 0; 
+
+	column-gap: 15px;
+	&:not(:last-child){
+		margin-bottom: 15px;
+	}
+}
+
+button {
+	margin-left: 10px;
+	padding: 10px 10px;
+	background-color: #ff6666;
+	color: white;
+	border: none;
+	border-radius: 5px;
+
+	cursor: pointer;
+	&:hover {
+	background-color: #ff3333;
+}
+}
+
+input {
+	padding: 10px;
+}
+
+body {
+	// text-align: center;
+}
