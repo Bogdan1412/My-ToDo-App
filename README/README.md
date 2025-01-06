@@ -10,4 +10,6 @@ A simple ToDo application built with HTML, SCSS, and JavaScript. Tasks are saved
 Open `index.html` in your browser.
 
 ## Screenshot
-![Screenshot of the app](screenshot.png)
+Name: Bohdan Savchuk 
+GitHub: Bogdan1412 
+https://bogdan1412.github.io/My-ToDo-App/
